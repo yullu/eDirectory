@@ -6,7 +6,9 @@ eDirectory is a simple Contact Management System for managing contacts where use
 - Create database and copy .env-copy and rename to .env and edit DB settings accordinly
 - Run php artisan migrate to setup table
 - Access your application using web browser
-![My Image](eDirectory login.png)
+  
+![My Image](eDirectorylogin.png)
 ![My Image](dashboard.png)
+
 ## License
 eDirectory is open-source software licensed under the MIT license.
